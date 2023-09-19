@@ -38,6 +38,7 @@ I am a software developer from Armenia
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" title="Inertiajs" alt="Inertiajs" width="40" height="40" />&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" title="Livewire" alt="Livewire" width="40" height="40" />&nbsp;
   </div>
   <div>
     <img src="https://www.nicepng.com/png/full/207-2073547_sql-server-icon-png-29-transparent-background-database.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
@@ -51,38 +52,38 @@ I am a software developer from Armenia
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   </div>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/raw/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
   </div>
-</div>
-
-### 🛠️ Tools :
-<div>
+  <div>
+    <img src="https://www.datamation.com/wp-content/uploads/2021/08/Google-Cloud-Logo.png" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" title="S3" alt="S3" width="40" height="40"/>&nbsp;
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/aws-ec2-logo-vector.svg" title="EC2" alt="EC2" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-iam-logo-png-transparent.png" title="IAM" alt="IAM" width="20" height="40"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/512/5453/5453855.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_apache_icon_130750.png" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  </div>
   <div>
     <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img src="https://seeklogo.com/images/P/phpstorm-logo-220B633CDA-seeklogo.com.png" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
     <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png?20121019215322" title="WinSCP" alt="WinSCP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="PS" alt="PS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  </div>
-<div>
     <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   </div>
-</div>
-
-### Amazon:
-<div>
-  <img src="https://www.marcellus.michlibrary.org/site-assets/images/amazon-logo.jpg/@@images/image.jpeg" title="Amazon" alt="Amazon" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" title="S3" alt="S3" width="40" height="40"/>&nbsp;
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/aws-ec2-logo-vector.svg" title="EC2" alt="EC2" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-iam-logo-png-transparent.png" title="IAM" alt="IAM" width="20" height="40"/>&nbsp;
 </div>
 
 --- 
