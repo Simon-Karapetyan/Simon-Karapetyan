@@ -1,12 +1,24 @@
-<h1 align="center">Hi there 👋 I am Simon an always in motion inspired Full Stack Developer</h1>
+<h1 align="center">Hi there 👋 I am Simon, an always inspired Full Stack Engineer</h1>
 
-I am a software developer from Armenia
+I am a software engineer from Armenia
 
-- :telescope: I am developing full stack applications using Javascript, PHP and their frameworks and also use Redis for caching data.
-- :dart: I am experienced in Laravel framework and have strong knwoledge in Object Orinted Programming and MVC design pattern.
-- :rocket: Capable of working with various technologies, finding different interesting solutions for hard tasks, and managing databases.
-- 🥇 Developer with unique ideas and a history of successful contributions in the field.
-- :mailbox: 
+- 🧑‍💻 Full-stack development using JavaScript, PHP, and their related frameworks.
+- 🔄 Strong experience with Laravel, OOP principles, SOLID practices, and the MVC design pattern.
+- 🛠️ Skilled in designing complex system architectures, optimizing queries, and managing relational databases.
+- 🚀 Problem-solver capable of working with diverse technologies, exploring different solutions for challenging tasks, and improving application performance.
+- 🧩 Creative engineer with unique ideas and a track record of delivering successful results across various projects.
+- 🤖 AI-Augmented Developer using modern AI tools to boost performance, code quality, and productivity.
+  - 🧠 Proficient in using AI tools such as ChatGPT, GitHub Copilot, Cursor, Codeium, and others for:
+    - Improving development workflow
+    - Automated documentation
+    - Refactoring & code analysis
+    - Generating tests and debugging
+    - System design brainstorming
+⚙️ Experience integrating AI APIs into applications (OpenAI, Anthropic, local LLMs).
+🔍 Understanding of vector databases, embeddings, and prompt engineering.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-karapetyan-b048a61b5/)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonK605&layout=compact&theme=vision-friendly-dark)](https://github.com/simonK605/github-readme-stats)
 
 --- 
 ### :computer: Languages, Frameworks and Libraries:
