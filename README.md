@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋 I am Simon, an always inspired Full Stack Engineer</h1>
 
-I am a software engineer from Armenia
+I am a software engineer from Armenia with 6 years of experience.
 
-- 🧑‍💻 Full-stack development using JavaScript, PHP, and their related frameworks.
-- 🔄 Strong experience with Laravel, OOP principles, SOLID practices, and the MVC design pattern.
+- 🧑‍💻 Full-stack development using PHP, Python and their related frameworks.
+- 🔄 Strong experience with Laravel, Django, FastAPI, OOP principles, SOLID practices, and the MVC/MVT design pattern.
 - 🛠️ Skilled in designing complex system architectures, optimizing queries, and managing relational databases.
 - 🚀 Problem-solver capable of working with diverse technologies, exploring different solutions for challenging tasks, and improving application performance.
 - 🧩 Creative engineer with unique ideas and a track record of delivering successful results across various projects.
 - 🤖 AI-Augmented Developer using modern AI tools to boost performance, code quality, and productivity.
-  - 🧠 Proficient in using AI tools such as ChatGPT, GitHub Copilot, Cursor, Codeium, and others for:
+  - 🧠 Proficient in using AI tools such as ChatGPT, GitHub Copilot, Cursor, Codeium, Windsurf and others for:
     - Improving development workflow
     - Automated documentation
     - Refactoring & code analysis
@@ -110,6 +110,7 @@ I am a software engineer from Armenia
   </div>
   <div>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVRSNCZKUcvSYkmDLtSNNaRwRDh8rz5HxHA&s" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
+    <img src="https://img.icons8.com/color/512/cursor-ai.png" title="Cursor" alt="Cursor" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
