@@ -16,7 +16,6 @@ I am a software engineer from Armenia
     - System design brainstorming
 ⚙️ Experience integrating AI APIs into applications (OpenAI, Anthropic, local LLMs).
 🔍 Understanding of vector databases, embeddings, and prompt engineering.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-karapetyan-b048a61b5/)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonK605&layout=compact&theme=vision-friendly-dark)](https://github.com/simonK605/github-readme-stats)
 
