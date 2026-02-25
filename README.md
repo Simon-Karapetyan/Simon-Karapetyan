@@ -112,6 +112,8 @@ I am a software engineer from Armenia with 6 years of experience.
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVRSNCZKUcvSYkmDLtSNNaRwRDh8rz5HxHA&s" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
     <img src="https://img.icons8.com/color/512/cursor-ai.png" title="Cursor" alt="Cursor" width="40" height="40"/>&nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWpqnefVIhtpma9B4BgJdecLpPi8ZVNtIMQ&s" title="Codeium" alt="Codeium" width="40" height="40"/>&nbsp;
+    <img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.png" title="Windsurf" alt="Windsurf" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
